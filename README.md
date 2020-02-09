@@ -7,6 +7,7 @@ This is my desktop assets from elementary os
 * theme    : adwaita-dark
 * icons    : Oranchelo-Green
 * terminal : urxvt
+* terminal font : Hack
 * font     : Fira Code Light 10
 * accesories : plank
 
