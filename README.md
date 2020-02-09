@@ -1,6 +1,14 @@
 # My Desktop Assets
 This is my desktop assets from elementary os
 
+# Requirements must be installed 
+* DE       : xfce
+* WM       : xfwm
+* theme    : adwaita-dark
+* icons    : Oranchelo-Green
+* terminal : urxvt
+* accesories : plank
+
 # Preview Desktop : 
 ![1](https://user-images.githubusercontent.com/49679669/74104953-3f6f8800-4b8c-11ea-8d33-820305d73199.png)
 
