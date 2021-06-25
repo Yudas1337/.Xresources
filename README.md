@@ -1,5 +1,5 @@
 # My Desktop Assets
-This is my desktop assets from elementary os
+This is my desktop assets from elementary os and manjaro openbox
 
 # Requirements must be installed 
 * DE       : xfce
